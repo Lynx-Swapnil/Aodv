@@ -1,0 +1,8 @@
++R #0  0s  AODVNetwork.host[0]  145.236.0.1  127.0.0.0/8  <unspec>  lo0
++R #0  0s  AODVNetwork.host[0]  145.236.0.1  145.236.0.0/16  <unspec>  wlan0
++R #0  0s  AODVNetwork.host[1]  145.236.0.2  127.0.0.0/8  <unspec>  lo0
++R #0  0s  AODVNetwork.host[1]  145.236.0.2  145.236.0.0/16  <unspec>  wlan0
++R #0  0s  AODVNetwork.host[2]  145.236.0.3  127.0.0.0/8  <unspec>  lo0
++R #0  0s  AODVNetwork.host[2]  145.236.0.3  145.236.0.0/16  <unspec>  wlan0
++R #0  0s  AODVNetwork.host[3]  145.236.0.4  127.0.0.0/8  <unspec>  lo0
++R #0  0s  AODVNetwork.host[3]  145.236.0.4  145.236.0.0/16  <unspec>  wlan0
